@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://drive.google.com/uc?export=download&amp;id=1J8rgUpC3F6YsfMVmZ-KG51dlxZaQYTV2/SalonApp.application" />
+    <deploymentProvider codebase="https://github.com/leo001-leo/AppointzyPublic/releases/download/v8" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
